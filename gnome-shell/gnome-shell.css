@@ -341,15 +341,15 @@ StScrollBar StButton#hhandle:active {
 
 /* Restart */
 .end-session-dialog .modal-dialog-button {
-    background-gradient-start: rgb(39, 174, 96);
-    background-gradient-end: rgb(39, 174, 96);
-    border-color: rgb(39, 174, 96);
+    background-gradient-start: rgb(112, 112, 112);
+    background-gradient-end: rgb(112, 112, 112);
+    border-color: rgb(112, 112, 112);
     color: #FAFAFA; }
 .end-session-dialog .modal-dialog-button:focus,
 .end-session-dialog .modal-dialog-button:hover {
-    background-gradient-start: rgb(49, 184, 106);
-    background-gradient-end: rgb(49, 184, 106);
-    border-color: rgb(49, 184, 106); }
+    background-gradient-start: rgb(120, 120, 120);
+    background-gradient-end: rgb(120, 120, 120);
+    border-color: rgb(120, 120, 120); }
 .end-session-dialog .modal-dialog-button:insensitive {
     color: #D1D5D8;
     background-gradient-start: #EFEFEF;
@@ -362,13 +362,13 @@ StScrollBar StButton#hhandle:active {
 
 /* Restart - Gnome 3.18*/
 .end-session-dialog .modal-dialog-linked-button {
-    background-color: rgb(39, 174, 96);
-    border-color: rgb(39, 174, 96);
+    background-color: rgb(112, 112, 112);
+    border-color: rgb(112, 112, 112);
     color: #FAFAFA; }
 .end-session-dialog .modal-dialog-linked-button:focus,
 .end-session-dialog .modal-dialog-linked-button:hover {
-    background-color: rgb(49, 184, 106);
-    border-color: rgb(49, 184, 106); }
+    background-color: rgb(120, 120, 120);
+    border-color: rgb(120, 120, 120); }
 .end-session-dialog .modal-dialog-linked-button:insensitive {
     color: #D1D5D8;
     background-color: #EFEFEF;
@@ -379,15 +379,15 @@ StScrollBar StButton#hhandle:active {
 
 /* Poweroff */
 .end-session-dialog .modal-dialog-button:last-child {
-    background-gradient-start: rgb(209,72,65);
-    background-gradient-end: rgb(209,72,65);
-    border-color: rgb(209,72,65);
+    background-gradient-start: rgb(90,90,90);
+    background-gradient-end: rgb(90,90,90);
+    border-color: rgb(90,90,90);
     color: #FAFAFA; }
 .end-session-dialog .modal-dialog-button:last-child:focus,
 .end-session-dialog .modal-dialog-button:last-child:hover {
-    background-gradient-start: rgb(219,82,75);
-    background-gradient-end: rgb(219,82,75);
-    border-color: rgb(219,82,75); }
+    background-gradient-start: rgb(100,100,100);
+    background-gradient-end: rgb(100,100,100);
+    border-color: rgb(100,100,100); }
 .end-session-dialog .modal-dialog-button:last-child:insensitive {
     color: #D1D5D8;
     background-gradient-start: #EFEFEF;
@@ -400,13 +400,13 @@ StScrollBar StButton#hhandle:active {
 
 /* Poweroff - Gnome 3.18 */
 .end-session-dialog .modal-dialog-linked-button:last-child {
-    background-color: rgb(209,72,65);
-    border-color: rgb(209,72,65);
+    background-color: rgb(90,90,90);
+    border-color: rgb(90,90,90);
     color: #FAFAFA; }
 .end-session-dialog .modal-dialog-linked-button:last-child:focus,
 .end-session-dialog .modal-dialog-linked-button:last-child:hover {
-    background-color: rgb(219,82,75);
-    border-color: rgb(219,82,75); }
+    background-color: rgb(100,100,100);
+    border-color: rgb(100,100,100); }
 .end-session-dialog .modal-dialog-linked-button:last-child:insensitive {
     color: #D1D5D8;
     background-color: #EFEFEF;
@@ -512,15 +512,15 @@ StScrollBar StButton#hhandle:active {
 
 /* Confirm */
 .prompt-dialog .modal-dialog-button:last-child {
-    background-gradient-start: rgb(209,72,65);
-    background-gradient-end: rgb(209,72,65);
-    border-color: rgb(209,72,65);
+    background-gradient-start: rgb(112,112,112);
+    background-gradient-end: rgb(112,112,112);
+    border-color: rgb(112,112,112);
     color: #FAFAFA; }
 .prompt-dialog .modal-dialog-button:last-child:focus,
 .prompt-dialog .modal-dialog-button:last-child:hover {
-    background-gradient-start: rgb(219,82,75);
-    background-gradient-end: rgb(219,82,75);
-    border-color: rgb(219,82,75); }
+    background-gradient-start: rgb(120,120,120);
+    background-gradient-end: rgb(120,120,120);
+    border-color: rgb(120,120,120); }
 .prompt-dialog .modal-dialog-button:last-child:insensitive {
     color: #D1D5D8;
     background-gradient-start: #EFEFEF;
@@ -533,13 +533,13 @@ StScrollBar StButton#hhandle:active {
 
 /* Confirm - Gnome 3.18*/
 .prompt-dialog .modal-dialog-linked-button:last-child {
-    background-color: rgb(209,72,65);
-    border-color: rgb(209,72,65);
+    background-color: rgb(112,112,112);
+    border-color: rgb(112,112,112);
     color: #FAFAFA; }
 .prompt-dialog .modal-dialog-linked-button:last-child:focus,
 .prompt-dialog .modal-dialog-linked-button:last-child:hover {
-    background-color: rgb(219,82,75);
-    border-color: rgb(219,82,75); }
+    background-color: rgb(120,120,120);
+    border-color: rgb(120,120,120); }
 .prompt-dialog .modal-dialog-linked-button:last-child:insensitive {
     color: #D1D5D8;
     background-color: #EFEFEF;
@@ -600,10 +600,10 @@ StScrollBar StButton#hhandle:active {
     box-shadow: inset 0 1px 0px transparent;
     font-weight: normal; }
 .popup-menu .popup-menu-item.selected {
-    background-color: #2C82C9;
+    background-color: #555;
     color: #eeeeec; }
 .popup-menu .popup-menu-item:active {
-    background-color: #2C82C9;
+    background-color: #555;
     color: #ffffff; }
 .popup-menu .popup-menu-item:insensitive {
     color: rgba(238, 238, 236, 0.5); }
@@ -678,7 +678,7 @@ StScrollBar StButton#hhandle:active {
     border: 2px solid #040404; }
 
 .switcher-list .item-box:selected {
-    background-color: rgba(41, 105, 176, 0.5);
+    background-color: rgba(200, 200, 200, 0.5);
     color: #ffffff; }
 
 .switcher-list .thumbnail-box {
@@ -717,7 +717,7 @@ StScrollBar StButton#hhandle:active {
 
 .ws-switcher-active-up, .ws-switcher-active-down {
     height: 50px;
-    background-color: #2C82C9;
+    background-color: rgba(238, 238, 236, 0.5);
     color: #ffffff;
     background-size: 32px;
     border-radius: 8px; }
@@ -754,7 +754,7 @@ StScrollBar StButton#hhandle:active {
 
 /* TOP BAR */
 #panel {
-    background-color: transparent;
+    background-color: rgba(0,0,0,0.4);
     font-weight: normal;
     height: 1.86em; }
 #panel:overview {
@@ -1053,9 +1053,9 @@ StScrollBar StButton#hhandle:active {
 
 .window-close {
     background-image: url("close-window.svg");
-    background-size: 32px;
-    height: 32px;
-    width: 32px; }
+    background-size: 24px;
+    height: 24px;
+    width: 24px; }
 
 .window-close {
     -shell-close-overlap: 16px; }
@@ -1188,7 +1188,7 @@ StScrollBar StButton#hhandle:active {
     -shell-caption-spacing: 12px; }
 .window-caption:hover {
     border: 0px solid rgba(255, 255, 255, 0);
-    background: rgba(41,105,176,0.5); }
+    background: rgba(150,150,150,0.8); }
 
 .search-entry {
     border-color: transparent;
@@ -1252,9 +1252,9 @@ StScrollBar StButton#hhandle:active {
 /* DASHBOARD */
 #dash {
     font-size: 9pt;
-    color: #eeeeec;
-    background-color: transparent;
-    padding: 4px 0;
+    color: #eeeeee;
+    background-color: rgba(30,30,30,0.5);
+    padding: 2px 0;
     border: 0px solid rgba(128, 128, 128, 0.4);
     border-left: 0px;
     border-radius: 0px 8px 8px 0px; }
@@ -1349,9 +1349,10 @@ StScrollBar StButton#hhandle:active {
     background-image: none; }
 
 .app-well-app-running-dot {
-    width: 10px;
-    height: 3px;
-    background-color: #2969B0;
+    width: 14px;
+    height: 6px;
+    background-color: #aaa;
+    border-radius: 3px;
     margin-bottom: 2px; }
 
 .search-provider-icon,
@@ -1409,8 +1410,8 @@ StScrollBar StButton#hhandle:active {
 
 .workspace-thumbnails {
     visible-width: 32px;
-    spacing: 11px;
-    padding: 8px;
+    spacing: 12px;
+    padding: 10px;
     border-radius: 8px 0 0 8px; }
 .workspace-thumbnails:rtl {
     border-radius: 0 8px 8px 0; }
@@ -1426,7 +1427,7 @@ StScrollBar StButton#hhandle:active {
 
 .workspace-thumbnails {
     color: #eeeeec;
-    background-color: transparent;
+    background-color: rgba(30,30,30,0.5);
     border: 0px solid rgba(250,250,250,0.2); }
 
 .search-statustext, .no-frequent-applications-label {
