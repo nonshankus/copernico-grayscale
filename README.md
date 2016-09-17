@@ -1,6 +1,6 @@
 # Copernico Grayscale
-Copernico Grayscale is a Gnome Shell theme with the main objective to provide a
-clean and unobtrusive experience.
+Copernico Grayscale is a Gnome Shell (>= 3.18) theme with the main objective to
+provide a clean and unobtrusive experience.
 
 The theme was originally developed by the Gnome Team and incorporates
 modifications by Michael Yugcha [@mgyugcha](https://www.twitter.com/mgyugcha)
