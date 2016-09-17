@@ -1,26 +1,22 @@
-# Copernico Theme #
+# Copernico Grayscale
+Copernico Grayscale is a Gnome Shell theme with the main objective to provide a
+clean and unobtrusive experience.
 
-**Copernico versión 3.18** es un tema para GNOME Shell que proporciona
-  un aspecto visual ligeramente mas agradable al que viene por
-  defecto.
+The theme was originally developed by the Gnome Team and incorporates
+modifications by Michael Yugcha [@mgyugcha](https://www.twitter.com/mgyugcha)
+and is licensed under the terms of the [GPLv3 license](LICENSE).
 
-Tema original de GNOME y modificado por Michael Yugcha
-[@mgyugcha](https://www.twitter.com/mgyugcha), bajo los términos de la
-licencia GPL v3.
+## References
+* The project this here was forked from:
+  https://github.com/mgyugcha/copernico-theme
 
-### Descarga ###
+## Screenshots
 
-Puedes descargar la última versión en
-[este enlace.](https://github.com/mgyugcha/copernico-theme/archive/master.zip)
+### Desktop
+![Desktop View](images/copernico.png)
 
-### Capturas ###
+### Applications
+![Application List View](images/copernico-apps.png)
 
-* Escritorio:
-
-![](https://raw.githubusercontent.com/mgyugcha/copernico-theme/master/images/copernico.png)
-* Aplicaciones
-
-![](https://raw.githubusercontent.com/mgyugcha/copernico-theme/master/images/copernico-apps.png)
-* Cierre de sesión
-
-![](https://raw.githubusercontent.com/mgyugcha/copernico-theme/master/images/copernico-end-session.png)
+### End Session
+![End Session Dialog](images/copernico-end-session.png)
