@@ -13,10 +13,10 @@ and is licensed under the terms of the [GPLv3 license](LICENSE).
 ## Screenshots
 
 ### Desktop
-![Desktop View](images/copernico.png)
+![Desktop View](images/copernico-grayscale.png)
 
 ### Applications
-![Application List View](images/copernico-apps.png)
+![Application List View](images/copernico-grayscale-apps.png)
 
 ### End Session
-![End Session Dialog](images/copernico-end-session.png)
+![End Session Dialog](images/copernico-grayscale-end-session.png)
